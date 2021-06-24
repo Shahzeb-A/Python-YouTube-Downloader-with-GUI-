@@ -3,6 +3,9 @@ YouTube is very popular video sharing website and Downloading a video from YouTu
 pytube is not the native library. You need to install it before using it. Installation is easy when you have pip. In the Terminal or Command Prompt, type the following command to install pytube.
 
 You can install pytube by using the following command:
+
 "pip install pytube"
 
-![Sak](https://user-images.githubusercontent.com/63748662/123268431-b057db80-d506-11eb-800b-10fcc8ef9e72.PNG)
+![sss](https://user-images.githubusercontent.com/63748662/123268857-19d7ea00-d507-11eb-8e94-8528a1a3085e.PNG)
+
+
