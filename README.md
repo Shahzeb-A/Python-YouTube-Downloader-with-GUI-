@@ -6,6 +6,7 @@ You can install pytube by using the following command:
 
 "pip install pytube"
 
-![sss](https://user-images.githubusercontent.com/63748662/123268857-19d7ea00-d507-11eb-8e94-8528a1a3085e.PNG)
+![Capture234](https://user-images.githubusercontent.com/63748662/123278477-a5557900-d50f-11eb-9e99-40580a1fa9d1.PNG)
+
 
 
