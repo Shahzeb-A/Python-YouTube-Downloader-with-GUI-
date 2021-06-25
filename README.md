@@ -13,3 +13,5 @@ You can install pytube by using the following command:
 Hope you like this project. Feel free to connect with me on GitHub.
 
 Happy Coding :)
+
+https://img.shields.io/appveyor/build/ShahzebAli123/Shahzeb
