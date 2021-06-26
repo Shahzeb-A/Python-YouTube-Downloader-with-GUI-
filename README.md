@@ -13,4 +13,5 @@ Hope you like this project. Feel free to connect with me on GitHub.
 
 Happy Coding :)
 
+https://img.shields.io/youtube/channel/subscribers/UC2bEl0TZJ1RuGYaR8b849ng?style=social
 
