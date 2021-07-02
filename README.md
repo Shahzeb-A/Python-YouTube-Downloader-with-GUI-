@@ -15,3 +15,11 @@ Happy Coding :)
 
 https://img.shields.io/youtube/channel/subscribers/UC2bEl0TZJ1RuGYaR8b849ng?style=social
 
+![Github All Releases](https://img.shields.io/youtube/channel/subscribers/UC2bEl0TZJ1RuGYaR8b849ng?style=social)
+
+![Github All Releases](https://img.shields.io/badge/Open%20Source-%20%E2%9D%A4%EF%B8%8F-red)
+![Github All Releases](https://img.shields.io/github/issues/ShahzebAli123/Python-YouTube-Downloader-with-GUI-)
+![Github All Releases](https://img.shields.io/badge/-Open%20Source%20%20%20%20%20%20%E2%9D%A4%EF%B8%8F-red)
+![Github All Releases](https://img.shields.io/badge/made%20by-Shahzeb%20Ali-blue)
+![Github All Releases](https://img.shields.io/github/downloads/ShahzebAli123/Python-YouTube-Downloader-with-GUI-/total)
+![Github All Releases](https://img.shields.io/github/followers/ShahzebAli123?style=social)
